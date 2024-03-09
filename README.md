@@ -35,8 +35,6 @@ namespace MyApp
 #### 3 место: заголовок четвертого уровня
 ##### 4 место: заголовок пятого уровня
 
-[Можно нажать сюда, чтобы вернуться вверх](https://github.com/phNl/FlutterHomeWork-Borisenko-Kirill-Sergeevich?tab=readme-ov-file#flutterhomework-borisenko-kirill-sergeevich)
-
 ## А вот человек держит букву Х
 *Держит уверенно*
 ![8fc3c3](https://github.com/phNl/FlutterHomeWork-Borisenko-Kirill-Sergeevich/assets/86802257/f77e71ec-56ef-4e26-a5ed-5ba03fe4d50e)
