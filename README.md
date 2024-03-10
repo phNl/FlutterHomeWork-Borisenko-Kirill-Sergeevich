@@ -1,4 +1,6 @@
 # FlutterHomeWork-Borisenko-Kirill-Sergeevich
+## Результат выполнения программы (задание №3)
+![Screenshot_1](https://github.com/phNl/FlutterHomeWork-Borisenko-Kirill-Sergeevich/assets/86802257/57be5840-a26c-4723-bd27-164e7aaaccec)
 
 ## Заголовок 2
 А под ним список:
